@@ -1,0 +1,10 @@
+InitQueue=OK
+EnQueue(10)=OK
+EnQueue(20)=OK
+EnQueue(30)=OK
+length=3
+DeQueue=10
+EnQueue(40)=OK
+EnQueue(50)=OK
+queue: 20 30 40 50
+front=1 rear=5

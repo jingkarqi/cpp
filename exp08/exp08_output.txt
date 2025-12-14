@@ -1,0 +1,6 @@
+DijkstraFrom=A
+A:0 path: A
+B:7 path: A C B
+C:3 path: A C
+D:9 path: A C B D
+E:5 path: A C E

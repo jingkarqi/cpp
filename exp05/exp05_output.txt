@@ -1,0 +1,4 @@
+PreOrder:A B D E C F
+Status=OK
+EmptyTree:
+Status=OK

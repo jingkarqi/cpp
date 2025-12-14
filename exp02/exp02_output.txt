@@ -1,0 +1,3 @@
+List: 10 20 30 40
+GetElem_L(3)=30
+GetElem_L(5)=ERROR

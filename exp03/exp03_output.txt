@@ -1,0 +1,6 @@
+InitStack=OK
+stacksize=100
+empty=1
+length_after_push=2
+pop=8
+length_end=1
