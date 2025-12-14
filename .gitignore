@@ -1,0 +1,4 @@
+*.exe
+npm-cache/
+node_modules/
+.vscode/
